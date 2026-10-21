@@ -1,1 +1,138 @@
-[]
+[{
+  "id": 1,
+  "name": "Playstation 5",
+  "price": 619.00,
+  "category": "Video Game Console",
+  "description": "Playstation 5 made by Sony, has disc drive and 1-TB of storage.",
+  "imageUrl": "./images/product1.jpg"
+}
+,
+{
+  "id": 2,
+  "name": "Xbox Series X",
+  "price": 719.99,
+  "category": "Video Game Console",
+  "description": "Xbox series X made by Microsoft, All digital and has 1-TB of storage",
+  "imageUrl": "./images/product2.jpg"
+}
+,
+{
+  "id": 3,
+  "name": "Nintendo Swtich 2",
+  "price": 459.99,
+  "category": "Video Game Console",
+  "description": "Nintendo Switch 2 made by Nintendo, can insert physical game cards and has 256 GB of storage",
+  "imageUrl": "./images/product3.jpg"
+},
+
+{
+  "id": 4,
+  "name": "Playstation 4",
+  "price": 130.99,
+  "category": "Video Game Console",
+  "description": "An older gen console that still holds up made by Sony, has 500 GB of storage. ",
+  "imageUrl": "./images/product4.jpg"
+}
+,
+{
+  "id": 5,
+  "name": "Xbox One S",
+  "price": 199.99,
+  "category": "Video Game Console",
+  "description": "An older gen Xbox that still holds up, created by Microsoft. All digital and 1-TB of storage.",
+  "imageUrl": "./images/product5.jpg"
+},
+
+{
+  "id": 6,
+  "name": "Playstation 5 Controller",
+  "price": 49.99,
+  "category": "Video Game Controller",
+  "description": "A game controller for the PS5. Whether yours is broken or you need one for multiplayer, we have it. Made by Sony.",
+  "imageUrl": "./images/product6.jpg"
+}
+,
+{
+  "id": 7,
+  "name": "Xbox Controller",
+  "price": 44.99,
+  "category": "Video Game Controller",
+  "description": "A game controller for the Xbox. Whether yours is broken or you need one for multiplayer, we have it. Made by Xbox.",
+  "imageUrl": "./images/product7.jpg"
+}
+,
+{
+  "id": 8,
+  "name": "Nintendo Switch Joycons",
+  "price": 79.99,
+  "category": "Video Game Controller",
+  "description": "A pair of joycons for the switch 2. Made by Nintendo.",
+  "imageUrl": "./images/product8.jpg"
+}
+,
+{
+  "id": 9,
+  "name": "Playstation 4 Controller",
+  "price": 29.99,
+  "category": "Video Game Controller",
+  "description": "A game controller for the PS4. Whether yours is broken or you need one for multiplayer, we have it. Made by Sony.",
+  "imageUrl": "./images/product9.jpg"
+}
+,
+{
+  "id": 10,
+  "name": "RGB Keyboard",
+  "price": 69.99,
+  "category": "PC/Gaming Equipment",
+  "description": "A mechanical keyboard able to be used on PC and Console. Wired, USB-C",
+  "imageUrl": "./images/product10.jpg"
+}
+
+,
+{
+  "id": 11,
+  "name": "Wireless Headset",
+  "price": 99.99,
+  "category": "PC/Gaming Equipment",
+  "description": "A wireless headset that can be used on multiple systems.",
+  "imageUrl": "./images/product11.jpg"
+}
+,
+{
+  "id": 12,
+  "name": "Wired Computer Mouse",
+  "price": 10.99,
+  "category": "PC/Gaming Equipment",
+  "description": "A wired mouse for PC and Consoles. RGB.",
+  "imageUrl": "./images/product12.jpg"
+}
+,
+{
+  "id": 13,
+  "name": "Nintendo Switch OLED",
+  "price": 220.99,
+  "category": "Video Game Console",
+  "description": "An upgraded version of the switch 1 that still holds up even as an older gen console.",
+  "imageUrl": "./images/product13.jpg"
+}
+,
+{
+  "id": 14,
+  "name": "Nintendo Switch Lite",
+  "price": 159.99,
+  "category": "Video Game Console",
+  "description": "An older but popular console! Cannot be docked like a normal switch but still very efficient, best for kids.",
+  "imageUrl": "./images/product14.jpg"
+}
+,
+{
+  "id": 15,
+  "name": "Xbox Series S",
+  "price": 519.99,
+  "category": "Video Game Console",
+  "description": "A newer gen system made by Xbox. All digital, but it's smaller size makes it more efficient space wise, also has 1-TB of storage.",
+  "imageUrl": "./images/product15.jpg"
+}
+
+
+]
